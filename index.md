@@ -1,3 +1,2 @@
 Documentations:
-
-[basicUI](https://bekhruzsniyazov.github.io/basicUI/)
+- [basicUI](https://bekhruzsniyazov.github.io/basicUI/)
