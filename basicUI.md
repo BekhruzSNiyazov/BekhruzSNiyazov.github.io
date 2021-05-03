@@ -1,3 +1,8 @@
+---
+title: basicUI
+layout: template
+filename: basicUI.md
+---
 # basicUI
 basicUI is an [open source](https://github.com/BekhruzSNiyazov/basicUI) front-end JavaScript framework designed to build webpages, created by [Bekhruz Niyazov](https://github.com/BekhruzSNiyazov).
 
